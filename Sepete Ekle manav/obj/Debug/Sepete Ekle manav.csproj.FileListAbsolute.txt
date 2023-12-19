@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\bin\Debug\Sepete Ekle manav.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\bin\Debug\Sepete Ekle manav.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\bin\Debug\Sepete Ekle manav.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete_Ekle_manav.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete_Ekle_manav.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.pdb
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\bin\Debug\Sepete Ekle manav.exe.config
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\bin\Debug\Sepete Ekle manav.exe
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\bin\Debug\Sepete Ekle manav.pdb
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete_Ekle_manav.Form1.resources
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete_Ekle_manav.Properties.Resources.resources
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.exe
+C:\Users\User\Desktop\Sepete-Ekle-Manav-main\Sepete Ekle manav\Sepete Ekle manav\obj\Debug\Sepete Ekle manav.pdb
